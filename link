@@ -1,1 +1,21 @@
-link :
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<title>Halaman Web Pertama Saya</title>
+
+</head>
+
+<body>
+
+<h1>Selamat Datang di Halaman Web Saya</h1>
+
+<p>Ini adalah paragraf pertama saya.</p>
+
+<a href="https://www.example.com">Kunjungi halaman lain</a>
+
+</body>
+
+</html>
